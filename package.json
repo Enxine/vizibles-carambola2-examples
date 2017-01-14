@@ -1,0 +1,31 @@
+{
+  "name": "vizibles-carambola2-examples",
+  "version": "1.1.0",
+  "description": "Examples to use a Carambola 2 as vizibles client",
+  "main": "eth-blu-scanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enxine/vizibles-carambola2-examples.git"
+  },
+  "keywords": [
+    "vizibles",
+    "carambola",
+    "iot",
+    "internet of things",
+    "things"
+  ],
+  "author": "Enxine <info@vizibles.com> (https://vizibles.com)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Enxine/vizibles-carambola2-examples/issues"
+  },
+  "homepage": "https://github.com/Enxine/vizibles-carambola2-examples#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "serialport": "^4.0.7",
+    "vizibles": "0.0.1"
+  }
+}
